@@ -8,7 +8,7 @@ This is a personal project built in my spare time for learning purposes.
 
 ### APIs
 
-* <https://api.ipify.org/?format=json> - IP search
+* <https://api.openweathermap.org/data/2.5/weather> - weather api
 
 #### Features
 
