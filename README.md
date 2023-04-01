@@ -16,12 +16,20 @@ This is a personal project built in my spare time for learning purposes.
 * Responsive
 * Offline ready
 * Installable (add to Homescreen )
-* Swipe gestures
 
-#### Built with
+## Run Locally
 
-* ES6
-* Sass
-* React
-* Jest
-* VSCode
+```bash
+git clone https://github.com/SHABIN-K/PWA-Weather-React-App.git
+npm install
+npm start
+````
+
+## Support   
+Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+   
+Report Bugs, Give Feature Requests There..   
+
+##
+
+   **Star this Repo if you Liked it ⭐⭐⭐**
